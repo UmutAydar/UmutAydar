@@ -56,15 +56,6 @@ Yeni repolar düzenli olarak eklenecektir.
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmutAydar&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutAydar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Bana Ulaşın
 
 - 📧 E-posta: **umut.aydar216@gmail.com**  
