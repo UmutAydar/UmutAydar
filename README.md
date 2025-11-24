@@ -36,7 +36,8 @@ Yeni repolar düzenli olarak eklenecek.
 
 📧 umut.aydar216@gmail.com
 
-🔗 LinkedIn: (profil linkini bana gönder, ekleyeyim dayı)
+🔗 LinkedIn: www.linkedin.com/in/umut-aydar-a44720254
+
 
 ⚡ Not
 
