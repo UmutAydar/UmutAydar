@@ -68,3 +68,13 @@ Includes exercises, algorithm practice, and small math projects.
 
 ![UmutAydar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=UmutAydar&show_icons=true&theme=github_dark&hide_border=true)
 
+---
+
+## 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=UmutAydar&theme=algolia&no-frame=true&margin-w=10)
+
+---
+
+## 👁️ Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=UmutAydar&style=for-the-badge)
+
