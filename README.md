@@ -3,17 +3,18 @@
 </p>
 
 
-# 🌟 Umut Aydar | Backend Developer
+# 🧑‍💻 Umut Aydar | Backend Developer
 
-4th-year Information Systems and Technologies student • Backend Development (C# / .NET / SQL)
+4th-year Information Systems and Technologies student  
+Focused on Backend Development using **C#, .NET, SQL Server**
 
 ---
 
-## 👨‍💻 About Me
-
-- I focus on **Backend Development** using **C#, .NET, SQL Server**.
-- Actively learning software fundamentals, data structures and algorithms.
+## 👨‍🏫 About Me
+- Actively learning software fundamentals, data structures, and algorithms to strengthen my backend development skills.  
 - Building small projects to improve my skills and strengthen my GitHub portfolio.
+
+---
 
 ## 📬 Contact
 
@@ -28,8 +29,8 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20CORE-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -53,18 +54,16 @@
 
 ## 📁 GitHub Repositories
 
-### 📂 CSharp-Projects
-Temel ve orta seviye C# konsol uygulamalarından oluşan eğitim amaçlı bir koleksiyon.  
-Alıştırmalar, algoritma geliştirme çalışmaları ve mini matematik projeleri içerir.
+### **📦 CSharp-Projects**
+A collection of beginner-to-intermediate C# console applications.  
+Includes exercises, algorithm practice, and small math projects.
 
-🔗 **Repo:** https://github.com/UmutAydar/CSharp-Projects
+👉 **Repo:** https://github.com/UmutAydar/CSharp-Projects
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmutAydar&show_icons=true&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutAydar&layout=compact&theme=default&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutAydar&layout=compact&theme=github_dark&hide_border=true)
 
+![UmutAydar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmutAydar&show_icons=true&theme=github_dark&hide_border=true)
