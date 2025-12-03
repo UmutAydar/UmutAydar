@@ -60,6 +60,13 @@ Includes exercises, algorithm practice, and small math projects.
 
 👉 **Repo:** https://github.com/UmutAydar/CSharp-Projects
 
+<hr style="border:0.5px solid #ddd; margin: 20px 0;">
+
+📁 HTML-Projects  
+A collection of HTML exercises, basic examples, and small practice projects created during my web development learning process. 
+
+👉 **Repo:** https://github.com/UmutAydar/html-projects
+
 ---
 
 ## 📊 GitHub Stats
