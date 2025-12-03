@@ -54,15 +54,15 @@ Focused on Backend Development using **C#, .NET, SQL Server**
 
 ## 📁 GitHub Repositories
 
-### **📦 CSharp-Projects**
+### **🟪 C# Projects**
 A collection of beginner-to-intermediate C# console applications.  
 Includes exercises, algorithm practice, and small math projects.
 
 👉 **Repo:** https://github.com/UmutAydar/CSharp-Projects
 
-────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
 
-📁 HTML-Projects  
+### **🌐 HTML Projects**  
 A collection of HTML exercises, basic examples, and small practice projects created during my web development learning process. 
 
 👉 **Repo:** https://github.com/UmutAydar/html-projects
