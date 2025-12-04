@@ -77,10 +77,6 @@ A collection of HTML exercises, basic examples, and small practice projects crea
 
 ---
 
-## 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=UmutAydar&theme=algolia&no-frame=true&margin-w=10)
-
----
 
 ## 👁️ Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=UmutAydar&style=for-the-badge)
