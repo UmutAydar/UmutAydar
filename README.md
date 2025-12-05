@@ -3,23 +3,9 @@
 </p>
 
 
-# 🧑‍💻 Umut Aydar | Backend Developer
-
-4th-year Information Systems and Technologies student  
-Focused on Backend Development using **C#, .NET, SQL Server**
-
----
-
 ## 👨‍🏫 About Me
 - Actively learning software fundamentals, data structures, and algorithms to strengthen my backend development skills.  
 - Building small projects to improve my skills and strengthen my GitHub portfolio.
-
----
-
-## 📬 Contact
-
-- 📧 Email: **umut.aydar216@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/umut-aydar-a44720254**  
 
 ---
 
@@ -49,23 +35,6 @@ Focused on Backend Development using **C#, .NET, SQL Server**
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
-
----
-
-## 📁 GitHub Repositories
-
-### **🟪 C# Projects**
-A collection of beginner-to-intermediate C# console applications.  
-Includes exercises, algorithm practice, and small math projects.
-
-👉 **Repo:** https://github.com/UmutAydar/CSharp-Projects
-
-────────────────────────────────────────────────────────────────────────────────
-
-### **🌐 HTML Projects**  
-A collection of HTML exercises, basic examples, and small practice projects created during my web development learning process. 
-
-👉 **Repo:** https://github.com/UmutAydar/html-projects
 
 ---
 
